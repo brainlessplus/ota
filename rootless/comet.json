@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/brainlessplus/ota/releases/download/2025050300/comet-2025050300-d4b013d-rootless.zip",
-    "location_csig": "https://github.com/brainlessplus/ota/releases/download/2025050300/comet-2025050300-d4b013d-rootless.zip.csig"
+    "location_ota": "https://github.com/brainlessplus/ota/releases/download/2025050500/comet-2025050500-d4b013d-rootless.zip",
+    "location_csig": "https://github.com/brainlessplus/ota/releases/download/2025050500/comet-2025050500-d4b013d-rootless.zip.csig"
   }
 }
