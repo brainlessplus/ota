@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/brainlessplus/ota/releases/download/2025050700/comet-2025050700-d4b013d-magisk-canary-28104.zip",
-    "location_csig": "https://github.com/brainlessplus/ota/releases/download/2025050700/comet-2025050700-d4b013d-magisk-canary-28104.zip.csig"
+    "location_ota": "https://github.com/brainlessplus/ota/releases/download/2025051900/comet-2025051900-d4b013d-magisk-canary-28104.zip",
+    "location_csig": "https://github.com/brainlessplus/ota/releases/download/2025051900/comet-2025051900-d4b013d-magisk-canary-28104.zip.csig"
   }
 }
